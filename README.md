@@ -1,7 +1,8 @@
 ![.Net](https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white)
 ![Blazor](https://img.shields.io/badge/blazor-%235C2D91.svg?style=for-the-badge&logo=blazor&logoColor=white)
 ![macOS](https://img.shields.io/badge/mac%20os-000000?style=for-the-badge&logo=macos&logoColor=F0F0F0)
-![Static Badge](https://img.shields.io/badge/Development%20Status-Active-brightgreen?style=flat-square)
+![Static Badge](https://img.shields.io/badge/Status-Under%20Development-brightgreen?style=flat-square)
+
 
 
 # FieldPlotter <img src="https://github.com/user-attachments/assets/27de4981-52f3-476b-b704-b69029a48d5e" align="right" width="250"/>
