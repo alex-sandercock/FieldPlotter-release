@@ -1,7 +1,8 @@
 ![.Net](https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white)
 ![Blazor](https://img.shields.io/badge/blazor-%235C2D91.svg?style=for-the-badge&logo=blazor&logoColor=white)
 ![macOS](https://img.shields.io/badge/mac%20os-000000?style=for-the-badge&logo=macos&logoColor=F0F0F0)
-![Static Badge](https://img.shields.io/badge/Status-Under%20Development-brightgreen?style=flat-square)
+![Static Badge](https://img.shields.io/badge/Status-Under%20Development-yellow?style=flat-square)
+
 
 
 
