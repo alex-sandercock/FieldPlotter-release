@@ -2,7 +2,7 @@
 ![Blazor](https://img.shields.io/badge/blazor-%235C2D91.svg?style=for-the-badge&logo=blazor&logoColor=white)
 ![macOS](https://img.shields.io/badge/mac%20os-000000?style=for-the-badge&logo=macos&logoColor=F0F0F0)
 ![GitHub Release](https://img.shields.io/github/v/release/alex-sandercock/FieldPlotter-release)
-![Static Badge](https://img.shields.io/badge/Status-Under%20Development-yellow?style=flat-square)
+![Static Badge](https://img.shields.io/badge/status-Under%20Development-yellow?style=flat-square)
 
 
 
