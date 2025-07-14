@@ -58,6 +58,8 @@ Install the file based on your OS from the releases.
 
 ⊞ Windows (coming soon)
 
+<img width="15" height="15" alt="image" src="https://github.com/user-attachments/assets/c5a525c8-2f6c-4089-84b7-d1b492b36434" />
+Android (coming soon)
 
 ## Authors
 Alexander M. Sandercock
