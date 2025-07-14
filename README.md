@@ -52,7 +52,12 @@ FieldPlotter enables researchers and breeders to efficiently design, visualize, 
 
 ## Getting Started
 
-Install the file based on your os.
+Install the file based on your OS from the releases.
+
+ [Mac (Intel and Arm)](https://github.com/alex-sandercock/FieldPlotter-release/releases/tag/v1.0.0-beta)
+
+⊞ Windows (coming soon)
+
 
 ## Authors
 Alexander M. Sandercock
