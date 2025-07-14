@@ -32,20 +32,13 @@ FieldPlotter enables researchers and breeders to efficiently design, visualize, 
 
 ## Screenshots
 
+
 <div align="center">
 
-<img src="https://github.com/user-attachments/assets/bf8afbb0-f7fc-40ad-b524-05157724de2b" width="600" alt="Native desktop and mobile application"><br>
-<sub>Native desktop and mobile application</sub>
-
-<br><br>
-
-<img src="https://github.com/user-attachments/assets/98eee135-a7d8-40f4-938f-731787e4c50f" width="600" alt="Importing germplasm (manually or from BrAPI server)"><br>
-<sub>Import germplasm information manually or pull from a BrAPI server</sub>
-
-<br><br>
-
-<img src="https://github.com/user-attachments/assets/7d5c9f3f-b302-4ec8-bb13-60ec3bf5771c" width="600" alt="Visualize plot layouts"><br>
-<sub>Visualize plot layouts</sub>
+| Native Application | Germplasm Import | Plot Visualization |
+| :---: | :---: | :---: |
+| <img src="https://github.com/user-attachments/assets/bf8afbb0-f7fc-40ad-b524-05157724de2b" alt="Native desktop and mobile application" width="400"/> | <img src="https://github.com/user-attachments/assets/98eee135-a7d8-40f4-938f-731787e4c50f" alt="Importing germplasm (manually or from BrAPI server)" width="400"/> | <img src="https://github.com/user-attachments/assets/7d5c9f3f-b302-4ec8-bb13-60ec3bf5771c" alt="Visualize plot layouts" width="400"/> |
+| **Native desktop and mobile application** | **Import germplasm manually or from a BrAPI server** | **Visualize plot layouts** |
 
 </div>
 
