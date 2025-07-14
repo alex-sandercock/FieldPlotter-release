@@ -38,7 +38,7 @@ FieldPlotter enables researchers and breeders to efficiently design, visualize, 
 | Native Application | Germplasm Import | Plot Visualization |
 | :---: | :---: | :---: |
 | <img src="https://github.com/user-attachments/assets/2e5fa72d-4cc1-4794-9279-cdc693a26794" alt="Native desktop and mobile application" width="400"/> | <img src="https://github.com/user-attachments/assets/98eee135-a7d8-40f4-938f-731787e4c50f" alt="Importing germplasm (manually or from BrAPI server)" width="400"/> | <img src="https://github.com/user-attachments/assets/7d5c9f3f-b302-4ec8-bb13-60ec3bf5771c" alt="Visualize plot layouts" width="400"/> |
-| **Native desktop and mobile application** | **Import germplasm manually or from a BrAPI server** | **Visualize plot layouts** |
+| _Native desktop and mobile application_ | _Import germplasm manually or from a BrAPI server_ | _Visualize plot layouts_ |
 
 </div>
 
