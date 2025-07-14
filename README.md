@@ -34,12 +34,12 @@ FieldPlotter enables researchers and breeders to efficiently design, visualize, 
 
 <div align="center">
 
-<img src="https://github.com/user-attachments/assets/f55de6ce-ea19-438b-bded-cb1915e05cbb" width="600" alt="Native desktop and mobile application"><br>
+<img src="https://github.com/user-attachments/assets/bf8afbb0-f7fc-40ad-b524-05157724de2b" width="600" alt="Native desktop and mobile application"><br>
 <sub>Native desktop and mobile application</sub>
 
 <br><br>
 
-<img src="https://github.com/user-attachments/assets/749e40a7-feae-4897-8d0b-8c110676adbb" width="600" alt="Importing germplasm (manually or from BrAPI server)"><br>
+<img src="https://github.com/user-attachments/assets/98eee135-a7d8-40f4-938f-731787e4c50f" width="600" alt="Importing germplasm (manually or from BrAPI server)"><br>
 <sub>Import germplasm information manually or pull from a BrAPI server</sub>
 
 <br><br>
